@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 103.91 67.95">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fae0c3;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #eb593d;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 1.81px;
+      }
+
+      .cls-3 {
+        stroke-width: 1.89px;
+      }
+    </style>
+  </defs>
+  <g id="Livello_2" data-name="Livello 2">
+    <g id="Livello_1-2" data-name="Livello 1">
+      <rect class="cls-1" x="5.91" y="3.95" width="98" height="64"/>
+      <rect class="cls-2" x="0.91" y="0.95" width="98" height="64"/>
+      <polygon class="cls-3" points="96.91 0.95 49.9 46.95 2.91 0.95 96.91 0.95"/>
+    </g>
+  </g>
+</svg>
