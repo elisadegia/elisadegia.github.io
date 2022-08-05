@@ -93,8 +93,8 @@ body {
     font-family: var(--font-principale);
     background-color: var(--colore-sfondo);
     color: rgb(17, 34, 63);
-    
-    
+
+
 }
 
 .prima_parte h1 {
@@ -118,7 +118,7 @@ body {
 
 .seconda_parte {
     height: 100vh;
-    width: 100%;
+    width: 100vw;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -126,6 +126,11 @@ body {
     padding: 5rem;
     display: flex;
 
+}
+
+.seconda_parte img {
+    max-width: 100px;
+    padding-bottom: 2rem;
 }
 
 .foto {
@@ -158,6 +163,10 @@ body {
 
 .paragrafo p {
     text-align: center;
+}
+
+.logo_elisa {
+    max-width: 10rem;
 }
 
 .contenitore_cards {
@@ -789,13 +798,14 @@ ul {
     text-decoration: underline 0.1 rem;
 }
 
-.home a {
+.home img {
     text-decoration: none;
     color: rgb(17, 34, 63);
     padding-left: 2rem;
     padding-top: 2rem;
     font-family: var(--font-sottotitoli);
     letter-spacing: 1, 2rem;
+    max-width: 10rem;
 
 }
 
